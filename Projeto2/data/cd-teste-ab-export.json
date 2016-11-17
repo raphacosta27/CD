@@ -1,0 +1,4133 @@
+{
+  "logs" : {
+    "-KVurZubTiift4dqtjs2" : {
+      "projeto" : "GDE",
+      "tempo" : 1478456397574,
+      "tipo" : "inicio",
+      "user_id" : 212358778,
+      "versao" : "B"
+    },
+    "-KVur_6DtfdB-YACN0_B" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478456394989,
+      "tipo" : "inicio",
+      "user_id" : 3073353723,
+      "versao" : "A"
+    },
+    "-KVurdZ4uV1lxrd-sYqZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478456413227,
+      "tipo" : "inicio",
+      "user_id" : 3073353723,
+      "versao" : "A"
+    },
+    "-KVureZ1NQl2W7uo1vy2" : {
+      "projeto" : "GDE",
+      "tempo" : 1478456420722,
+      "tipo" : "escolha_categoria",
+      "user_id" : "212358778",
+      "versao" : "B"
+    },
+    "-KVurfD58UAnOUntv8Zu" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478456421812,
+      "tipo" : "escolha_categoria",
+      "user_id" : "3073353723",
+      "versao" : "A"
+    },
+    "-KVurfVYzX1rcRKtTy49" : {
+      "projeto" : "GDE",
+      "tempo" : 1478456424583,
+      "tipo" : "final",
+      "user_id" : "212358778",
+      "versao" : "B"
+    },
+    "-KVurgLYLu0OR82XnIRE" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478456424643,
+      "tipo" : "final",
+      "user_id" : "3073353723",
+      "versao" : "A"
+    },
+    "-KVuriUB3tCL7NIeVlAO" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478456433388,
+      "tipo" : "inicio",
+      "user_id" : 3073353723,
+      "versao" : "B"
+    },
+    "-KVusQq8N5MgriFq1oh8" : {
+      "projeto" : "GDE",
+      "tempo" : 1478456622591,
+      "tipo" : "inicio",
+      "user_id" : 1310678990,
+      "versao" : "A"
+    },
+    "-KVutgyjZPwbvZD4Rsdx" : {
+      "projeto" : "GDE",
+      "tempo" : 1478456954881,
+      "tipo" : "inicio",
+      "user_id" : 4216049734,
+      "versao" : "A"
+    },
+    "-KVutsmT2kT_-f1rb4q4" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457016178,
+      "tipo" : "inicio",
+      "user_id" : 105061458,
+      "versao" : "A"
+    },
+    "-KVutyF349AyrkVt7Yun" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457030647,
+      "tipo" : "inicio",
+      "user_id" : 2830537766,
+      "versao" : "A"
+    },
+    "-KVutzr_lnvb6VyPL5Eo" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457032249,
+      "tipo" : "final",
+      "user_id" : "4216049734",
+      "versao" : "A"
+    },
+    "-KVuu09QMe0g1HMbTzps" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457042645,
+      "tipo" : "escolha_categoria",
+      "user_id" : "2830537766",
+      "versao" : "A"
+    },
+    "-KVuu0gYAppjfmo81YGs" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457044755,
+      "tipo" : "final",
+      "user_id" : "2830537766",
+      "versao" : "A"
+    },
+    "-KVuu2bmIsbz5chIJADW" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457060559,
+      "tipo" : "escolha_categoria",
+      "user_id" : "105061458",
+      "versao" : "A"
+    },
+    "-KVuuOS-G3vB78kUYKTI" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457137059,
+      "tipo" : "inicio",
+      "user_id" : 1844494626,
+      "versao" : "A"
+    },
+    "-KVuuXIuoHqSqo1hAq33" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457174115,
+      "tipo" : "inicio",
+      "user_id" : 1764659413,
+      "versao" : "A"
+    },
+    "-KVuv2AoixVLubyfhJb0" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457307996,
+      "tipo" : "inicio",
+      "user_id" : 1132830238,
+      "versao" : "B"
+    },
+    "-KVuv5M-t4v4q2Tcqcua" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457321085,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1132830238",
+      "versao" : "B"
+    },
+    "-KVuv6a_jypOqt1ZbjTL" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457326105,
+      "tipo" : "final",
+      "user_id" : "1132830238",
+      "versao" : "B"
+    },
+    "-KVuv6atg2--c67GTC7b" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457326051,
+      "tipo" : "inicio",
+      "user_id" : 3044798797,
+      "versao" : "A"
+    },
+    "-KVuvPzkhbMH79vzpPTy" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457406176,
+      "tipo" : "inicio",
+      "user_id" : 1866069808,
+      "versao" : "B"
+    },
+    "-KVuvSGRxVyuRQcNAAVz" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457415505,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1866069808",
+      "versao" : "B"
+    },
+    "-KVuvSj0rszHKQjzEbI0" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457417394,
+      "tipo" : "final",
+      "user_id" : "1866069808",
+      "versao" : "B"
+    },
+    "-KVuvYCEzH4Of5nkd9d1" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457442721,
+      "tipo" : "inicio",
+      "user_id" : 3044798797,
+      "versao" : "B"
+    },
+    "-KVuvZmpH6rRR37i00mL" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457445676,
+      "tipo" : "inicio",
+      "user_id" : 372839908,
+      "versao" : "A"
+    },
+    "-KVuvdAi9pyUami5TiWq" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457463643,
+      "tipo" : "inicio",
+      "user_id" : 372839908,
+      "versao" : "B"
+    },
+    "-KVuviDoKrQHPzk4QP_l" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457484382,
+      "tipo" : "inicio",
+      "user_id" : 57053111,
+      "versao" : "A"
+    },
+    "-KVuvqqBaTbTm5dOok-u" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457519763,
+      "tipo" : "inicio",
+      "user_id" : 2929164856,
+      "versao" : "B"
+    },
+    "-KVuvvr7iXHMvu9Oou87" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457540097,
+      "tipo" : "final",
+      "user_id" : "3044798797",
+      "versao" : "B"
+    },
+    "-KVuw0KTRPk8dtdjcC5P" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457562590,
+      "tipo" : "inicio",
+      "user_id" : 4250897646,
+      "versao" : "A"
+    },
+    "-KVuw0wlR17U_QEoG2MC" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457565081,
+      "tipo" : "final",
+      "user_id" : "2929164856"
+    },
+    "-KVuw9p_7c6bgvbtse1f" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478457601518,
+      "tipo" : "inicio",
+      "user_id" : 4250897646,
+      "versao" : "B"
+    },
+    "-KVuwHbpEXLbCh7BdEBf" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457632232,
+      "tipo" : "inicio",
+      "user_id" : 3649128606,
+      "versao" : "B"
+    },
+    "-KVuwOX9eiFrkgdDVo-B" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457660544,
+      "tipo" : "escolha_categoria",
+      "user_id" : "3649128606",
+      "versao" : "B"
+    },
+    "-KVuwPAVctfp4uY7NVHm" : {
+      "projeto" : "GDE",
+      "tempo" : 1478457663215,
+      "tipo" : "final",
+      "user_id" : "3649128606",
+      "versao" : "B"
+    },
+    "-KVuysQamdvDEmmEcFV9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458311368,
+      "tipo" : "inicio",
+      "user_id" : 4158649315,
+      "versao" : "B"
+    },
+    "-KVuyvoOCWbRVwvsvjos" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458325257,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4158649315",
+      "versao" : "B"
+    },
+    "-KVuywRP5vogxv7qQUvb" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458327827,
+      "tipo" : "final",
+      "user_id" : "4158649315",
+      "versao" : "B"
+    },
+    "-KVuz5R6GV2PkCkGCiRQ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478458379620,
+      "tipo" : "inicio",
+      "user_id" : 3886166301,
+      "versao" : "A"
+    },
+    "-KVuzXlVV7_qI4axJjIk" : {
+      "projeto" : "GDE",
+      "tempo" : 1478458484924,
+      "tipo" : "inicio",
+      "user_id" : 887134551,
+      "versao" : "A"
+    },
+    "-KVuzaCgcVEgfdNutjn5" : {
+      "projeto" : "GDE",
+      "tempo" : 1478458509782,
+      "tipo" : "inicio",
+      "user_id" : 3886166301,
+      "versao" : "A"
+    },
+    "-KVuzhWey0fhiQm6wHtx" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458539705,
+      "tipo" : "inicio",
+      "user_id" : 3886166301,
+      "versao" : "A"
+    },
+    "-KVuzje86VxS9L2-EF0v" : {
+      "projeto" : "GDE",
+      "tempo" : 1478458537718,
+      "tipo" : "escolha_categoria",
+      "user_id" : "887134551",
+      "versao" : "A"
+    },
+    "-KVuzkUxCbGV3DWPyt_M" : {
+      "projeto" : "GDE",
+      "tempo" : 1478458541150,
+      "tipo" : "final",
+      "user_id" : "887134551",
+      "versao" : "A"
+    },
+    "-KVuzkir5Wm7AH9V9526" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458552839,
+      "tipo" : "escolha_categoria",
+      "user_id" : "3886166301",
+      "versao" : "A"
+    },
+    "-KVuzn91lTrIPV13adeZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458563421,
+      "tipo" : "final",
+      "user_id" : "3886166301",
+      "versao" : "A"
+    },
+    "-KVv-5koA5J4pY0exayK" : {
+      "projeto" : "GDE",
+      "tempo" : 1478458632238,
+      "tipo" : "inicio",
+      "user_id" : 1720622345,
+      "versao" : "B"
+    },
+    "-KVv-7xfrhtDehvuLsSw" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458642491,
+      "tipo" : "inicio",
+      "user_id" : 3193914653,
+      "versao" : "A"
+    },
+    "-KVv-JgEErUZFv265X-z" : {
+      "projeto" : "GDE",
+      "tempo" : 1478458690498,
+      "tipo" : "inicio",
+      "user_id" : 3193914653,
+      "versao" : "A"
+    },
+    "-KVv0LauMMVH5nddKNB_" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478458960444,
+      "tipo" : "inicio",
+      "user_id" : 1023291895,
+      "versao" : "A"
+    },
+    "-KVv1oqMo13jOgSEC1cJ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478459346108,
+      "tipo" : "inicio",
+      "user_id" : 3275186018,
+      "versao" : "B"
+    },
+    "-KVv1v94fO1D-xAimw9z" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478459371904,
+      "tipo" : "inicio",
+      "user_id" : 3275186018,
+      "versao" : "A"
+    },
+    "-KVv2phiddsdqvAeuEmg" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478459612106,
+      "tipo" : "inicio",
+      "user_id" : 3612973336,
+      "versao" : "B"
+    },
+    "-KVv4EEBxpKF_57h-4DH" : {
+      "projeto" : "GDE",
+      "tempo" : 1478459977811,
+      "tipo" : "inicio",
+      "user_id" : 3267323885,
+      "versao" : "A"
+    },
+    "-KVv6WUaocOaWrDhl-p9" : {
+      "projeto" : "GDE",
+      "tempo" : 1478460577977,
+      "tipo" : "inicio",
+      "user_id" : 2335413868,
+      "versao" : "A"
+    },
+    "-KVv6d-L65L946_ARkr-" : {
+      "projeto" : "GDE",
+      "tempo" : 1478460608624,
+      "tipo" : "escolha_categoria",
+      "user_id" : "2335413868",
+      "versao" : "A"
+    },
+    "-KVv6dN4ydN1jrbj3MtG" : {
+      "projeto" : "GDE",
+      "tempo" : 1478460610147,
+      "tipo" : "final",
+      "user_id" : "2335413868",
+      "versao" : "A"
+    },
+    "-KVvFFdnMoMTdBG82PWy" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478462871211,
+      "tipo" : "inicio",
+      "user_id" : 1257728698,
+      "versao" : "B"
+    },
+    "-KVvFmfrPJppUvEQGGuU" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478463007212,
+      "tipo" : "inicio",
+      "user_id" : 3389982252,
+      "versao" : "A"
+    },
+    "-KVvHUCnSkrv0l7xhns5" : {
+      "projeto" : "GDE",
+      "tempo" : 1478463455132,
+      "tipo" : "inicio",
+      "user_id" : 1257728698,
+      "versao" : "A"
+    },
+    "-KVvHYH_Yhz7gEd6lNin" : {
+      "projeto" : "GDE",
+      "tempo" : 1478463471827,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1257728698",
+      "versao" : "A"
+    },
+    "-KVvHZSwi_BK91GiLxQJ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478463476655,
+      "tipo" : "final",
+      "user_id" : "1257728698",
+      "versao" : "A"
+    },
+    "-KVvJTF0tAc65h9e-_JD" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478463973022,
+      "tipo" : "inicio",
+      "user_id" : 4179756260,
+      "versao" : "B"
+    },
+    "-KVvJbRVBKsyJACa-3m4" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464010688,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4179756260",
+      "versao" : "B"
+    },
+    "-KVvJdDIe7mdxA_sufy9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464018004,
+      "tipo" : "final",
+      "user_id" : "4179756260",
+      "versao" : "B"
+    },
+    "-KVvJeNdJh5RSNXdk64W" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464022719,
+      "tipo" : "final",
+      "user_id" : "4179756260",
+      "versao" : "B"
+    },
+    "-KVvJj7S_Va6sSPfPdct" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464041366,
+      "tipo" : "inicio",
+      "user_id" : 4122330881,
+      "versao" : "A"
+    },
+    "-KVvK-2cia-9nsVPpoKG" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464110711,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvK00H_jh43wfuG_je" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464114623,
+      "tipo" : "final",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvK9f37WJS6Fjhtts0" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464154165,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvKAHA2H1-r--jTzT3" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464156698,
+      "tipo" : "final",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvLhD3tM_IfcmHANGt" : {
+      "projeto" : "GDE",
+      "tempo" : 1478464574344,
+      "tipo" : "inicio",
+      "user_id" : 2478919333,
+      "versao" : "A"
+    },
+    "-KVvLsuY-Tyu8jTO85Rv" : {
+      "projeto" : "GDE",
+      "tempo" : 1478464622262,
+      "tipo" : "escolha_categoria",
+      "user_id" : "2478919333",
+      "versao" : "A"
+    },
+    "-KVvLtkkiQv9B9qfF1yP" : {
+      "projeto" : "GDE",
+      "tempo" : 1478464625736,
+      "tipo" : "final",
+      "user_id" : "2478919333",
+      "versao" : "A"
+    },
+    "-KVvM5vbW0XkxZar3hyP" : {
+      "projeto" : "GDE",
+      "tempo" : 1478464680910,
+      "tipo" : "inicio",
+      "user_id" : 3666344422,
+      "versao" : "A"
+    },
+    "-KVvMMBHhfFSMJzvRxU9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478464808709,
+      "tipo" : "inicio",
+      "user_id" : 2174287119,
+      "versao" : "A"
+    },
+    "-KVvPoslI1j2u4HPXUZM" : {
+      "projeto" : "GDE",
+      "tempo" : 1478465654785,
+      "tipo" : "inicio",
+      "user_id" : 1315639454,
+      "versao" : "A"
+    },
+    "-KVvQUFbOjdsIDB6iLcp" : {
+      "projeto" : "GDE",
+      "tempo" : 1478465828357,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1315639454",
+      "versao" : "A"
+    },
+    "-KVvQf6Ma_SAOHrlvrpT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478465876920,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1315639454",
+      "versao" : "A"
+    },
+    "-KVvQg-b9dkZeNV8oGR0" : {
+      "projeto" : "GDE",
+      "tempo" : 1478465880567,
+      "tipo" : "final",
+      "user_id" : "1315639454",
+      "versao" : "A"
+    },
+    "-KVvQiOH-g8prf4WJCLO" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478465873614,
+      "tipo" : "inicio",
+      "user_id" : 3299522247,
+      "versao" : "B"
+    },
+    "-KVvS6cx7BJm0B0eGM8r" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466238835,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "B"
+    },
+    "-KVvS7KSCeR77ec-OjXB" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466241691,
+      "tipo" : "final",
+      "user_id" : "4122330881",
+      "versao" : "B"
+    },
+    "-KVvSuezLRWbjvrR_8G6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478466447896,
+      "tipo" : "inicio",
+      "user_id" : 4122330881,
+      "versao" : "A"
+    },
+    "-KVvSxNiN6Y1UrI63mZl" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478466459016,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvSy21oTk5_dmuuVKs" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478466461728,
+      "tipo" : "final",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvT0tUtUHK7zpzWsPq" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466477457,
+      "tipo" : "inicio",
+      "user_id" : 4122330881,
+      "versao" : "B"
+    },
+    "-KVvT3bxTfQ7Xiaq6E1i" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466488625,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "B"
+    },
+    "-KVvT40Na05Ly4mDoosJ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466490248,
+      "tipo" : "final",
+      "user_id" : "4122330881",
+      "versao" : "B"
+    },
+    "-KVvT8hMDtEoiqG1M9ML" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466509450,
+      "tipo" : "inicio",
+      "user_id" : 4122330881,
+      "versao" : "B"
+    },
+    "-KVvTAYYZRDnEV18GdPV" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466517017,
+      "tipo" : "final",
+      "user_id" : "4122330881",
+      "versao" : "B"
+    },
+    "-KVvTJNmCEeJMQkz3Uzr" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466553228,
+      "tipo" : "inicio",
+      "user_id" : 4122330881,
+      "versao" : "A"
+    },
+    "-KVvTONzhXealfqjMeUX" : {
+      "projeto" : "GDE",
+      "tempo" : 1478466573739,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvX1t-OhmFXb_LLdy_" : {
+      "projeto" : "GDE",
+      "tempo" : 1478467530076,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvX36mhFjKpsdsTauv" : {
+      "projeto" : "GDE",
+      "tempo" : 1478467535114,
+      "tipo" : "final",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    },
+    "-KVvYPdOS1BRMnAghiud" : {
+      "projeto" : "GDE",
+      "tempo" : 1478467894521,
+      "tipo" : "inicio",
+      "user_id" : 1029225500,
+      "versao" : "B"
+    },
+    "-KVvYaRHHaqOVIhlcbYZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478467942697,
+      "tipo" : "inicio",
+      "user_id" : 1029225500,
+      "versao" : "A"
+    },
+    "-KVvarJaeDLa_3ckaw43" : {
+      "projeto" : "GDE",
+      "tempo" : 1478468793777,
+      "tipo" : "inicio",
+      "user_id" : 373987122,
+      "versao" : "A"
+    },
+    "-KVvcrR99FZxjCEq0CJS" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478469318514,
+      "tipo" : "inicio",
+      "user_id" : 373987122,
+      "versao" : "B"
+    },
+    "-KVvd8W07X0LP4Qzw0gl" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478469392557,
+      "tipo" : "inicio",
+      "user_id" : 373987122,
+      "versao" : "A"
+    },
+    "-KVvdpySRkAeAHbRn6X3" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478469574673,
+      "tipo" : "inicio",
+      "user_id" : 3712384202,
+      "versao" : "A"
+    },
+    "-KVvdwSUz5vTE8uWxtPV" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478469592274,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1398998684",
+      "versao" : "B"
+    },
+    "-KVve-xixfouPcbcBET6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478469605758,
+      "tipo" : "final",
+      "user_id" : "1398998684",
+      "versao" : "B"
+    },
+    "-KVvfX-Qoj0MNc-7Xq2c" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478470022768,
+      "tipo" : "inicio",
+      "user_id" : 1409314254,
+      "versao" : "B"
+    },
+    "-KVvfbPwJGDALS43BnWh" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478470044943,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1409314254",
+      "versao" : "B"
+    },
+    "-KVvfctD9PeqWqqB5VJc" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478470050976,
+      "tipo" : "final",
+      "user_id" : "1409314254",
+      "versao" : "B"
+    },
+    "-KVvhVUBQENdu0mRn0xW" : {
+      "projeto" : "GDE",
+      "tempo" : 1478470533172,
+      "tipo" : "inicio",
+      "user_id" : 3366809486,
+      "versao" : "B"
+    },
+    "-KVvmwg-ZuPIum-wWtrU" : {
+      "projeto" : "GDE",
+      "tempo" : 1478471961445,
+      "tipo" : "inicio",
+      "user_id" : 1933542014,
+      "versao" : "A"
+    },
+    "-KVvpEMXWfPzTcSxMCts" : {
+      "projeto" : "GDE",
+      "tempo" : 1478472562241,
+      "tipo" : "inicio",
+      "user_id" : 4136426170,
+      "versao" : "A"
+    },
+    "-KVvpJhp9yOWXXw8dvxO" : {
+      "projeto" : "GDE",
+      "tempo" : 1478472584137,
+      "tipo" : "inicio",
+      "user_id" : 4136426170,
+      "versao" : "B"
+    },
+    "-KVvub36e_B2NQgdl8aO" : {
+      "projeto" : "GDE",
+      "tempo" : 1478473971722,
+      "tipo" : "inicio",
+      "user_id" : 3858877836,
+      "versao" : "B"
+    },
+    "-KVvudKZobqZ-hCUv5LW" : {
+      "projeto" : "GDE",
+      "tempo" : 1478473981030,
+      "tipo" : "escolha_categoria",
+      "user_id" : "3858877836",
+      "versao" : "B"
+    },
+    "-KVvueBRVx2_7wdE3IhJ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478473984545,
+      "tipo" : "final",
+      "user_id" : "3858877836",
+      "versao" : "B"
+    },
+    "-KVvyCk7RU6E5w2RqqzD" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478474914924,
+      "tipo" : "inicio",
+      "user_id" : 610126693,
+      "versao" : "A"
+    },
+    "-KVvyTugFBBnUM_4JDK6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478474985232,
+      "tipo" : "escolha_categoria",
+      "user_id" : "610126693",
+      "versao" : "A"
+    },
+    "-KVvyUuWc0dSVKXbhC-a" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478474989354,
+      "tipo" : "final",
+      "user_id" : "610126693",
+      "versao" : "A"
+    },
+    "-KVvyd-vlsnKkdQL4QmT" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478475025567,
+      "tipo" : "inicio",
+      "user_id" : 3389982252,
+      "versao" : "B"
+    },
+    "-KVvyg2ZJleDEb7lQpks" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478475038065,
+      "tipo" : "escolha_categoria",
+      "user_id" : "3389982252",
+      "versao" : "B"
+    },
+    "-KVvyhyfIcUaX4zdlffP" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478475045939,
+      "tipo" : "final",
+      "user_id" : "3389982252",
+      "versao" : "B"
+    },
+    "-KVvykcLzOgWCF1Wb6bL" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478475057815,
+      "tipo" : "escolha_categoria",
+      "user_id" : "610126693",
+      "versao" : "A"
+    },
+    "-KVvyloCykz2hUgxQyNf" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478475062670,
+      "tipo" : "escolha_categoria",
+      "user_id" : "610126693",
+      "versao" : "A"
+    },
+    "-KVvyp1X9I5soimDrxYn" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478475075852,
+      "tipo" : "final",
+      "user_id" : "610126693",
+      "versao" : "A"
+    },
+    "-KVw7R852eVbM3bLudGc" : {
+      "projeto" : "GDE",
+      "tempo" : 1478477591961,
+      "tipo" : "inicio",
+      "user_id" : 1874633725,
+      "versao" : "A"
+    },
+    "-KVw7z62aWoPDLELJdXH" : {
+      "projeto" : "GDE",
+      "tempo" : 1478477735189,
+      "tipo" : "final",
+      "user_id" : "1874633725",
+      "versao" : "A"
+    },
+    "-KVw81TKMqzg4S6MLieZ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478477748989,
+      "tipo" : "final",
+      "user_id" : "1874633725",
+      "versao" : "A"
+    },
+    "-KVw82jgJW-q6KLELxff" : {
+      "projeto" : "GDE",
+      "tempo" : 1478477732695,
+      "tipo" : "inicio",
+      "user_id" : 2196683584,
+      "versao" : "B"
+    },
+    "-KVwKjfqX0GpvHE_j0Ae" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478481083212,
+      "tipo" : "inicio",
+      "user_id" : 1622931682,
+      "versao" : "B"
+    },
+    "-KVwKoDOly4MHnLfVR8n" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478481101813,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1622931682",
+      "versao" : "B"
+    },
+    "-KVwKpMVGq9u54f3Rjh4" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478481106493,
+      "tipo" : "final",
+      "user_id" : "1622931682",
+      "versao" : "B"
+    },
+    "-KVwRHPCP9UlgwEVPAHL" : {
+      "projeto" : "GDE",
+      "tempo" : 1478483018830,
+      "tipo" : "inicio",
+      "user_id" : 1561760900,
+      "versao" : "B"
+    },
+    "-KVwRPK4Yalxryfc-Nj5" : {
+      "projeto" : "GDE",
+      "tempo" : 1478483051304,
+      "tipo" : "final",
+      "user_id" : "1561760900",
+      "versao" : "B"
+    },
+    "-KVwRQNwhzWeVPzX8yKW" : {
+      "projeto" : "GDE",
+      "tempo" : 1478483055614,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1561760900",
+      "versao" : "B"
+    },
+    "-KVwejEanu7j7Be6hFcT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478486586636,
+      "tipo" : "inicio",
+      "user_id" : 1069924001,
+      "versao" : "A"
+    },
+    "-KVwfO2Xh_ipQCSNJaRJ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478486760056,
+      "tipo" : "inicio",
+      "user_id" : 3436741310,
+      "versao" : "A"
+    },
+    "-KVwfRXM_ZZkMEXHsEn5" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478486774282,
+      "tipo" : "escolha_categoria",
+      "user_id" : "3436741310",
+      "versao" : "A"
+    },
+    "-KVwfSQ7aKcO34Rx8yzZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478486777913,
+      "tipo" : "final",
+      "user_id" : "3436741310",
+      "versao" : "A"
+    },
+    "-KVwiEdoX5Qp07f_xIWR" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487237775,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwiQPoKToBu1zHUK5e" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487286000,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwiVfcjmPe0hsx9JmL" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487307648,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwiWRRHh_k8RU-irUj" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487310705,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwicy3l4ItlMRoTwpw" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487341466,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwjedoy8bwYhV_lIUb" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487610526,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwjf9ML0dCGGXWvAUz" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487612592,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwjjWa3d-8mxNqC6_g" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487630491,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwjuYtruuvt-LVGZTD" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487675648,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwjyOBgR8HyZdt16rQ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487691366,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwkJ8lWEdWlpLQIT9z" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487780475,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwkL1buI6b5TxjoY9W" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487788221,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwkMv_rbpS07XDdqea" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487795951,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwkNbP-89lEuAS22hF" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487798792,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwkRTiMhFsOjE0jjNs" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487814601,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwkWCPNktUVf9pIH3h" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487835023,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwkX6zdWRhPvIRgorC" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487837698,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwkYrscOh52f4R5y6k" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487844927,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwkw4AOxJ27oObCeh6" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487944040,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwkyW4JojVD4XL35ha" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487953989,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwl0EFIXeOe9Uh5ILh" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487965175,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwl26Fo5FYtdSDRrT6" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487972818,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwl3ECHxpZkitXQyUk" : {
+      "projeto" : "GDE",
+      "tempo" : 1478487977460,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwl8XDtm7-WfU5JM-b" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478487999132,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwlCsSK-MrUIbtMh9q" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488016948,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwlHgBWDigZmp3W-WT" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488036624,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwlI5fbxGl8B3R7iE2" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488038316,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwlLhd1_kRWWR9ehrX" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488053144,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwlOXFw-nds6ZIC46A" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488064658,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwlQD92SjWxUSXO7ll" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488071569,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwlQu5ms2pr32lT7G6" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488074401,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwlUh6QqgR9mfOQzgN" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488089932,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwlXEx1-dClChNDeVg" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488100363,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwl_7qmH4qSpvRjFoT" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488112214,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwl_bZbN5LcrGSjlq-" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488114147,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwlcZzNxlVKGTTS0nu" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488126287,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwltNmGpuNlaVNgEWT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488195175,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwlxorNVQlfC3EHbtk" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488213326,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwly9ORTSuVxITJoXx" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488214678,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwm0oQGyBX7B-dFWLs" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488230279,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwm5VedDvEd0c4y0x4" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488248878,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwm7tLAVx1YH5chWYW" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488258681,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwm9gL5urAJ1IzG4Tp" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488266040,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwmA-qXN08xBv9_ng6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488267329,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwmDlwpT0p7lzeSf1i" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488282823,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmEPpvnpH-fRdrORx" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488285362,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmGgIsox2m0Yzguji" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488294690,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwmI59OHchaGARu63w" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488300466,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmMHTb4Ex7CfjWhv6" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488317606,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmP9DKpuYRaV8VNt9" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488329365,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwmQjTiBU1tDWi_cAR" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488335841,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmR4CtVHhxbl4e-US" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488337235,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmTZScR3zpHHfBSLG" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488347421,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwmUy09tJrXXeao_mH" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488353186,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmXHOT422pxnEqvUr" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488362695,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwm_swbEEQrbJw-vr2" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488379120,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmdVvWEMEyhTqfvKM" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488392275,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwmfJfFKzthiYLmitV" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488399669,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwmfnzKI8dTKU8gkUd" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488401695,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwmjbFP9hcAOkoExqj" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488417247,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmjzxS8hApqVNVYbl" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488418830,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmnX7agUBh61ZGozF" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488433287,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwmphcnvx5g1bQ_yDT" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488442234,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwmrHPxkK6cWN8xGsW" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488448695,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmrbzVX7-7yYr4bC8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488450066,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmtfQtRQf_L2VwsG0" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488458481,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwmvb5mNnU3RaP8s5Y" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488466406,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwmznhSK-DjkebOC_p" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488483587,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwn1cVj0oRmA-4vG7H" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488495140,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwn4WNd5CUYLbIIdyB" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488507015,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwn4uBBar8JDwQb8Fa" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488508556,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwn9-tOk2lsXLUXJwB" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488525365,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnBZfuMJc3EHgglly" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488535847,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwnDLoAkVtNzPvljAq" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488543168,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnFlGX3TY3nogzuSP" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488553031,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwnH8yJaB539nxM-2v" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488558715,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwnH_4vkeA84D5u5F5" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488560632,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwnLUXuzb2-Xv_zyPk" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488576474,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnOLeRo-KY49XPcT9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488588205,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwnPjYev20sNvncxWZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488593899,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnQD_h3WZYTQCdunA" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488595935,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnUVqpzab5zDwgIlF" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488613436,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwnYonlN3QmoOKD4AO" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488631228,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnZJ72VgJT1BNFHQh" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488633099,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnaS9IN7dL_yFXIBi" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488641858,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwnc4w4ntRt2uhGaDv" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488648622,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwng9zwUfTmfpPI4Um" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488665272,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwnktL3tx-ELOnzehd" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488684668,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwnlBy4s_uiuhYHR3l" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488685908,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwnnKmVPMxHVdrt20n" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488694746,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwnphFH1gkkLLHbdHt" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488704359,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwnrimKsdY0XFmXhQQ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488712628,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwntVORxoizyFFusz1" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488719910,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwny6cVYh_m2jk4WhW" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488738815,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwnyYi1LonwV4cVPW9" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488740580,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwo-jU6L0okLz64Zdb" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488749595,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwo4AJMcgNH1P_27h6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488767702,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwo6-4Zr8US0BGdj-L" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488775343,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwo6iJ8lu2y9kMn7BU" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488778127,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwo8t-qrxIkajZnZKo" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488787024,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwoE-bFb2lCHxSeZS8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488807970,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwoFiNXUq22_W_Fjio" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488815044,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoG5-SKrRpymy48Ec" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488816525,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoLSm6piWArzHSVZo" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488838518,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwoM1i-ODsxCEloKC8" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488840898,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwoOIE-i8jcpgRQqZV" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488850127,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwoS0hbadUuOx-0y2E" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488865796,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoSuUihbDQ6UxPIkv" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488869023,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoVZuD6PcAobXSWww" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488879945,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwoX0oRAzdzpheaUnn" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488885920,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoXaQ-PpPy3C1tnts" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488888236,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoZj9RoeKvVH6liqS" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488897004,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwoaYrdEs1FfDLf1QD" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488904437,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoawf6IafmItGh8cZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488906017,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwofAMZoDFGxCWbEFw" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488923366,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwofdsr7TJGLkQEMvk" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488925312,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwoi0vWBFrqmJEmar0" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488935020,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwojL_UrN4Z4f4W8wy" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488940448,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwojvQGwA72zMV8hw9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488942806,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwolsunUBdEzfGai1v" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488950831,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwon_j9P-nrS070HCL" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478488957817,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVworcG-tm38crcfcQr" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488974501,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwos5sQ49MwPnStcqy" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488976336,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwow6Gaum2ceypi4ja" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488992721,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwowjIQWYYQG9u2ruS" : {
+      "projeto" : "GDE",
+      "tempo" : 1478488995279,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwoyfy39VUcnaArlmo" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489003249,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwp-D09kHnz84t-byD" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489009547,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwp-YK4ATWgiX2vT2E" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489010888,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwp2vR4y4LMqZyDx2T" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489024722,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwp33Ybq_iGvHjuA5T" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489025305,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwp3W5aJdVrDj_b3hg" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489027125,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwp5_8XIDuib9FW92o" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489035580,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwp752_UfPG7KC4F_3" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489041784,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpBWupP6GDyGJxSQa" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489060042,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwpCCRdzvomDCwDmwo" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489062752,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwpECWTaKkwzgO_wRi" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489070928,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwpGGzgThuXFFO_FGF" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489079416,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpGocsDbos1vc9_1B" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489081623,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpJCZ0mpK6El9742Q" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489091412,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwpKhJMakZ9-MojkI8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489097544,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwpOn-jx6PrulsLVss" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489114344,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwpRGyxRtZlVEfkH2-" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489124481,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwpSsMiXJrKcUfVSwC" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489131103,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpTJbJ-FO5yBIcw2D" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489132837,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpWYw7n7OiEuRlZbh" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489146101,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwpZGBIl6gixRdNN1G" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489157243,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwp_j2HbK_cBRG2CZr" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489163216,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwpaGSNlZnhLbpylK7" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489165417,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwpdz1QpJbexgLqkfs" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489180600,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwpfj0BMA2nAgwyTXn" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489187787,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpi4SMZ93nOVkeSEx" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489197391,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwpjV1W7V5Jxv8Gqob" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489203204,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpnEu6_jo8IEkiTxr" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489218552,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwpouogCipa2W4K8rt" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489225485,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwppFG5MN9M2MiDfZ3" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489226748,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpstjKkr9S-YWuG0V" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489241707,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpvZCEWmPb5NQvMid" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489252603,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwpx3s2BztGSweELvm" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489258793,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwpzmXnkaxtG0JtJ4T" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489269902,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwq0JSdh7uU5QHhuJJ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489276218,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwq0hxvUqmkvCx0L4p" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489277810,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwqA04U16tguWE535_" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489315900,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwqARBStBVj3HmowSe" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489317644,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwqCrXCeUGRKA6AIth" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489327599,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwqF29hT_L6-cnUd2h" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489336549,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwqJI5H0oBTav2s-t6" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489353910,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwqJcoRyEriR085lnH" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489355293,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwrhHkShkaCE_2ukCY" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489718422,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwrimT8BobHRR1P-vl" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489724547,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwrnjQ4GU-xBdE3cxN" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489744830,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwroNOpNqstHXYbaP2" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489747459,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwrqGEf9qlIF_lVUV-" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489755188,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwrrnWmf33xtZKkVPK" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489761478,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwrsJHTLSBE2IUfhBH" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489763575,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwrwHL42UTaohWVr1U" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489779835,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwrz12hw9BXLQBbQVJ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489791074,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVws018Ytj0EjiUiZSI" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489799285,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVws0MAbCHrttfndrzA" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489800623,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVws2kElkuu17_oktxp" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489810427,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVws4VDnPoq9qWdkjWD" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489817587,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVws7C2RqNTRLbV1STP" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489828651,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVws8i9yg-cqAcMgX6e" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489834867,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVws95WeRlbEm9g8Hu_" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489836419,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsBfQX43MDAdwI9FB" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489846976,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwsDJWYZ_1zIq_Ldz-" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489853698,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwsGa7MiOVosLhRMhn" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489867114,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsJNpptHi9yqM3_iH" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489878558,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwsKww5UTw18g-2gSp" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489884956,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwsLZIVK81jLr49PG3" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489887477,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwsNf7C_OBH5RPaza5" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489896102,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwsPH4PJ5lu8GV4DQu" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489902702,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwsPg0plUO0p7zXq2U" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489904356,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwsSxZksyCc-ASl4RT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489917774,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsTJTsbHIjZmQWFR4" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489919230,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsVe7PO8yl2PVsZpI" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489928815,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwsXL-LLHooqQkly4o" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489935710,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsbCt-4zMGFzK11fX" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489955678,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwscYlHTgsjBPKEDcj" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478489961564,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwseTA5OwnC-3u_tGp" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489969003,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwsfxklP3JR4kAzFOv" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489975127,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsgOSunp3zD1lOMkU" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489976894,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsk2x-FLCV2235jdk" : {
+      "projeto" : "GDE",
+      "tempo" : 1478489991902,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwsoj1UPBjT_a5EjG6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490011043,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwspK4GEGm3b51STPf" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490013497,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwsrOwe1vn9lNpI_AM" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490021977,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwsssSripINsowmMy9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490028035,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwstHSa_UNHfXKzSaW" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490029698,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwswp7HaTZGiYWbkdI" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490044207,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwsxI9e2PGgX64hvgw" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490046122,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwt-UTKzdtev0LClgx" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490059197,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwt1qiYmoz7cB8P0OB" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490068876,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwt3EOxK01GoJBO3xg" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490074561,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwt3o1AorWEbhn5U7Q" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490076898,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwt7U-BnA-Qe6To_76" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490091934,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwt7vXIo5-Tm4eKdvc" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490093767,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwtACAK9opUqfLzAer" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490103083,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwtBaeaF1rS4nO7Civ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490108814,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwtC3aU9WnUSvr3IKN" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490110723,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwtFaSucGDbtDsW5jS" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490125182,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwtH3NnUadjTSolZtN" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490131192,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwtKPmCYt2dJCdlux9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490144914,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwtMJkW0ucH4_VjhvF" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490152717,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwtO3VQwWAPufIWowA" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490159875,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwtO3bStlV9yfV9An-" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490159882,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwtOTTpCvme5KSqgDb" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490161529,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwtSOjgdc5Qdz3vpBS" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490177614,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwtSmuoxD12L-Ql38-" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490179223,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwtWDjVnqr735yNkqO" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490193290,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwtYYpO6WmWMzMQpUU" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490202835,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwt_MwFSLIsChfdmco" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490210262,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvCqPowLCKsCANXvu" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490638211,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwvDMnIJHLRt9U4MGh" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490640328,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwvFLHCu5wocnd49jP" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490648511,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwvGuMtezSfnHrsRP8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490654834,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvHCK9Q_hJDsK5-wr" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490656042,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvIbVkWWBOz_z_Y_k" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490661814,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwvKc7VobZKCD0tSLb" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490670049,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvL-J3AWDVE_oPZ0W" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490671592,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvMUg-sVPIrHv3Qo5" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490677697,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwvNwTeYsVClTB_hkX" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490683632,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvQcQWLd4CQ8vuNpj" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490694646,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwvSFbxQjTB6HZc7g9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490701309,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwvUdbOjs7WWpmVK7-" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490711102,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwvWQJ_1foHtWrva8h" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490718375,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvX4aAROn6y5oZ9Eb" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490721084,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvZC5G6jQwrNl8-8c" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490729752,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVwv_mZSJS06fkV2EUE" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490736251,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvaArju2kgsR_Ceme" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490737865,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVwvfCyzbb94UsYRIFY" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478490758481,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwvhwU6l62brBmwQXg" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490769650,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVwvvZmJjZl0cQ5uUxM" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490825481,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwvx0cd_2tw5y_vnjk" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490831429,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVwvy0nGbr-XfDRyKjq" : {
+      "projeto" : "GDE",
+      "tempo" : 1478490835524,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVy9nu68nQus_5tmKDV" : {
+      "projeto" : "GDE",
+      "tempo" : 1478511771426,
+      "tipo" : "inicio",
+      "user_id" : 4028371829,
+      "versao" : "B"
+    },
+    "-KVyA-ygplfEqyMmqw6m" : {
+      "projeto" : "GDE",
+      "tempo" : 1478511825114,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4028371829",
+      "versao" : "B"
+    },
+    "-KVyA0j1t76XkYNDR0e0" : {
+      "projeto" : "GDE",
+      "tempo" : 1478511828060,
+      "tipo" : "final",
+      "user_id" : "4028371829",
+      "versao" : "B"
+    },
+    "-KVyFH5hHoOA6dgbXzdV" : {
+      "projeto" : "GDE",
+      "tempo" : 1478513222196,
+      "tipo" : "inicio",
+      "user_id" : 4245423518,
+      "versao" : "A"
+    },
+    "-KVyFayiYdIYXYsi8YMl" : {
+      "projeto" : "GDE",
+      "tempo" : 1478513307498,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4245423518",
+      "versao" : "A"
+    },
+    "-KVyaLi3z7UvLMHO4Azc" : {
+      "projeto" : "GDE",
+      "tempo" : 1478518723536,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyaSM5R8pxSJa3ZgRn" : {
+      "projeto" : "GDE",
+      "tempo" : 1478518750707,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyaT5tI8L_075a9VdK" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478519021094,
+      "tipo" : "inicio",
+      "user_id" : 4146067992,
+      "versao" : "A"
+    },
+    "-KVyayzmqfnw7Fil4QA4" : {
+      "projeto" : "GDE",
+      "tempo" : 1478519155854,
+      "tipo" : "inicio",
+      "user_id" : 4146067992,
+      "versao" : "B"
+    },
+    "-KVyb0EbSxi9dFBt9o6F" : {
+      "projeto" : "GDE",
+      "tempo" : 1478519165014,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4146067992",
+      "versao" : "B"
+    },
+    "-KVymQtmBhlIs4XpDicQ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478522174898,
+      "tipo" : "inicio",
+      "user_id" : 1451785770,
+      "versao" : "B"
+    },
+    "-KVyn-EXJoWRT6W3mUo9" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478522307543,
+      "tipo" : "inicio",
+      "user_id" : 1451785770,
+      "versao" : "A"
+    },
+    "-KVytS7BxtcAvJRj-AHX" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523730416,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVytTv9symzk_EqT9tw" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523737774,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVytUjzVHRABP2rpdgY" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523741149,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVytZ-cjyrnGee4ZeTf" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523758604,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVytZR_7piPFD47pmPN" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523760397,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVytaXSK_5Kgxb7a5If" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523768959,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVytbuPo_OWfpuIe6kz" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523774590,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVytcLN7MG-YRmFNQQu" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523776376,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVytgPaFMag3v2BKHH7" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523793028,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVytkhmyZ4mTVn6rvIU" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523810645,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVytm5US9blUu54MgW8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523816321,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVytma9irTPPVakobjq" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523818345,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVytqKrxg1ueNylxpGh" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523833685,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVytqyJmEhgSISb-8Uc" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523836277,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVytsdrZXabfR5bkaVP" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523843155,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVytuU2DorsyFNSPEWh" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523850666,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVytuszqd5C0J31xjNO" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523852316,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVytylOxcovWC32gqDI" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523868217,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVytzL2jI3bKEZ8OCQh" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523870569,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyu0S8dDcCzPtrJOdT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523879205,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyu1gsYRzRbeeU9BIr" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523884315,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyu2F4p7uu6F6eNvIM" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523886561,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyu5tsT9UIGCv9LSjG" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523901529,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyu6K-TWptJ2DSVREO" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523903262,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyu8TAb_mWGHHhp-bU" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523912047,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyuDhMLVQJEPx_n500" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523933492,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuEHETF4-GzoYtrF4" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523935895,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuIFo2biuIsOiizCf" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523952152,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuJI2tIsxSUUGD9jo" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523956386,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuNTTDvZBjMSMg49R" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523973497,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuNrsfjvNZxvMe1hN" : {
+      "projeto" : "GDE",
+      "tempo" : 1478523975129,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuRugZbX6fKGk_p22" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523991694,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyuSC63y3Jn7wL08_H" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478523992866,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyuVFTUSMhv6SLJYdW" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524005370,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuVfcEt6_I16uG4pZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524007122,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuXqJnP7Nn7yHoKxT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524015988,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyucae7Hn4Oe-CkxM8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524039561,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyudFvrmCxP4CStZvk" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524042260,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuh2d6sM4IiG6UfxW" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524057797,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyuhS6Xp2Vf55HFcPB" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524059435,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyujTVB572GERx8rIJ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524067707,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyukw-rLEoRDVTIGdB" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524073695,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyulImvsl9LLOUV2zg" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524075212,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyunboWjYK6hDwxnBi" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524084692,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyupLdjOfN4Fyg551L" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524091784,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyupjXblZdkQ6y1q4r" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524093374,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyutl5bAKe9xggtNG6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524109861,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyuuCgPEwjnL9rhl9c" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524111684,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyuvzrdFjqbRO0jqaH" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524118993,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyuwCyrPyxLAavHXrH" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524406518,
+      "tipo" : "final",
+      "user_id" : "1451785770",
+      "versao" : "A"
+    },
+    "-KVyuxfjzPzhKBanH_Yv" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524126395,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyuyAtD9Q3oMf1tuTk" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524127956,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyv-62MNLZAQzMTY7e" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524135839,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyv0YyOE-fHfWxHCVk" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524141794,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyv11oKyg8lzs95avy" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524143759,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyv35dJ7ZAc2ICFmL8" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524152197,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyv4Zyp67vN-lNZrEv" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524158236,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyv4wznxs4zmZOOZxX" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524159771,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyv7J_QYjnQ4Gyqn7u" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524169471,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyv8kLTrBVKBUik-KY" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524175345,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvBKqDVv_4K4LJDXy" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524185936,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyvDUrceeDuKA06Wm7" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524194767,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvFibNohPaYCsbncy" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524203900,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyvHGWav9gBsKmQybL" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524210236,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvHg22NZZjQZq3tCW" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524211939,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvL5Crvh7tlW-_JGw" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524225891,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvLXJHJ1PRo4TgmWl" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524227704,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvNSrRluz2iakOz7f" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524235599,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyvOyl2u9l2oZNfYRs" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524241804,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvPGuAYsgMXnl2fxd" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524243026,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvSWYjdVSsBu1Rbi0" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524256315,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvUyNnUVVk5UDms-P" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524266350,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyvWHuYVKOUDYlx2nx" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524271763,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvWX_hu3b1-ewcZ-B" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524272770,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvZm2b6OnXZoGAGVT" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524286041,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyv_BvbZBxUwCz0AzX" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524287775,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvbG7-CxK6-P_1J5v" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524296221,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyvcfF2PG44y1qoGbV" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524301995,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvd-8aV9JCqBTWIue" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524303327,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvjzQ71LohhJXAJ9J" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524331958,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvkH4WrlyaECq4UX8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524333149,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvmDST_eyG75ecnz5" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524341108,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyvoEH4h7djAnAyWG8" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524349350,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyvrs2PM8B_11K0SAk" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524364256,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvsKOJVNYrhfHPndw" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524366128,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvuSzI4cUhL-d6bH2" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524374870,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyvxnS_2G_CnuW6WUt" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524388530,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyvz6UGKQwBSn7UOa4" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524393911,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyvzX5EWB2o8DSRg5p" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524395614,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyw2BzHS38t9a85Ns8" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524410650,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyw2biyva2w9FXRQJ7" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524412354,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyw4cjnO7Z-yuABVLT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524420616,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyw5i7ZmCScaNHs4o5" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524425062,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyw69al9vL7sbqwo5m" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524426875,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyw87p90SU-vIEBpgL" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524434959,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyw9IIOyD3SJ8vfan8" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524439725,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyw9ht8wmDa_fZRv8L" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524441436,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywBqgrK1K-v2X8_GG" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524450182,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywDTQwduz2fpYlQ1s" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524456838,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywDpROm3zUrGYmy16" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524458288,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywFMHxOGwnUROtpxQ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524464554,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywGaZFbTRnulsUCc6" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524469632,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywGtGlK8KA1JT9NgR" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524470822,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywJ5A4pNwbfyd4vDy" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524479840,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywKKto0rxnCuu3O53" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524484944,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywKd7CPQDc0sQYlCk" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524486170,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywMez9oHsaLpoc3Xq" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524494485,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywNrl_NDh0h5OS7oJ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524499402,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywOFABZbJtXVcmqlu" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524500958,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywPwFmF_U7klv-bEz" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524507880,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywR6C4o0MODgHfxW9" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524512691,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywRYU4nHRT_wxyIlM" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524514481,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywTLTMokAQMFjLhLH" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524521847,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVywUbuSDyRnUG_Ni4N" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524527060,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywUz7fEkyKBgnVJTg" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524528539,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywWzo_dJexmFAQKdc" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524536781,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVywYGhDcji6rj-d0cT" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524542021,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywYYdKOTeL53sQO2f" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524543162,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyw_aHiqytX45k5KhM" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524551526,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywaohV2O6S-KN6e8E" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524556549,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywbBZ3aELQHkPUIPB" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524558069,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywd0obunkKYZWzPaK" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524565577,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVywe30JdtmBMQunbmw" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524569809,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywhI8M-dTk_WHdSJz" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524583081,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywhjnIsoVxTXrvx2K" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524584913,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywjyUZHzYpdDQmfBo" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524594029,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywkzBmjyDBKo8BbUR" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524598183,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywlIfocU7tMu0DprV" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524599483,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywor8i-umv55sO3eR" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524614052,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywpFOcfFlUGtSScl4" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524615658,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywqsSO4y9SiexdjD1" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524622321,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVywrwOhtK3cBIxtX4t" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524626675,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywsSZx8s2k8BNmSYU" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524628792,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVywukEQ04RW_TNuZ4K" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524638184,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVywvwuk_Y_TihuuSEB" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524643083,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywz5vMoQ3dAUyzXsi" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524656027,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVywzRrUE1QFbppFOW0" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524657415,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyx0YiPkaI8wH0DtYd" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524666049,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyx23NPaI_9pvwaC9A" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524672235,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyx2W2c4kvdmz4Tk-D" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524674069,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyx4b_n2GRF9k1o7r8" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524682681,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyx5tgOcONSn_Mts0b" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524687939,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyx6HJpBIbnQ04QvYr" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524689515,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyx7sEPDjUJdsKiuNU" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524696033,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyx9L8PMgpu8qpLYHp" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524702050,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxBgjTxBC_Rp2fvGy" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524711683,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyxDT8wD51fk3ApXTN" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524718937,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxFYqXLWHLCgjx-Na" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524727496,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyxHAOp9oxPzHJuaME" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524734128,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxHams6JWdodKOCtc" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524735876,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxJYx74CPw9mqkRkn" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524743887,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyxL3dwrIuHGE0QROU" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524750074,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxPBUgjV8ny3E0PH2" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524766977,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxRJ9ezMBwWdWbpdV" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524775639,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyxSj8mJl5_lwYL2oB" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524781474,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxT63eZ9hc9f2S3U9" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524782994,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxWmO2ouJDnrbCsu5" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524798056,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyx_l5_25KSiuPE4G-" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524814355,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxbyzB1dMKlGhDY-i" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524823436,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyxdb15iMz9JVR4sl2" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524830103,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxdxdIXmeuQZl8TNY" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524831543,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxfrN2x4fomtReLSZ" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524839339,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "A"
+    },
+    "-KVyxhV44k0Jq4czYUpG" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524846031,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxlcuIxJqxsXEjjWx" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524862990,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxlxA1UtdMnpdNIvO" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524864279,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxo2Qin0us9LMTj1d" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524872875,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyxp54alBIzmizqlzo" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478524877141,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxsNsEfPeEUHs49V7" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524890637,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxsoVx_PwXG0QeP6o" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524892397,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "A"
+    },
+    "-KVyxunUr7SGj5BRQobM" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524900529,
+      "tipo" : "inicio",
+      "user_id" : 655675346,
+      "versao" : "B"
+    },
+    "-KVyxwXK6cZMfuvb_73l" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524907627,
+      "tipo" : "escolha_categoria",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVyxwvaa-YGcDAj7CLJ" : {
+      "projeto" : "GDE",
+      "tempo" : 1478524909234,
+      "tipo" : "final",
+      "user_id" : "655675346",
+      "versao" : "B"
+    },
+    "-KVzJQKZekAMHOEot3pp" : {
+      "projeto" : "GDE",
+      "tempo" : 1478531069154,
+      "tipo" : "inicio",
+      "user_id" : 3677738882,
+      "versao" : "B"
+    },
+    "-KVzLDXuw7mbBzt7tH-P" : {
+      "projeto" : "GDE",
+      "tempo" : 1478531541013,
+      "tipo" : "inicio",
+      "user_id" : 3677738882,
+      "versao" : "A"
+    },
+    "-KVzO-kBLJr6uXiprS39" : {
+      "projeto" : "GDE",
+      "tempo" : 1478532271709,
+      "tipo" : "inicio",
+      "user_id" : 3677738882,
+      "versao" : "B"
+    },
+    "-KVzO6U_QuYn9wOAv2EN" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478532315603,
+      "tipo" : "inicio",
+      "user_id" : 4113450992,
+      "versao" : "B"
+    },
+    "-KVziuWDjNYA2woXpzFt" : {
+      "projeto" : "GDE",
+      "tempo" : 1478538012419,
+      "tipo" : "inicio",
+      "user_id" : 1084800552,
+      "versao" : "B"
+    },
+    "-KW-Ih4bf0qIRTBY3cKA" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478547657148,
+      "tipo" : "inicio",
+      "user_id" : 1881892331,
+      "versao" : "A"
+    },
+    "-KW-IlJ2JPj7RS7WtVEg" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478547674455,
+      "tipo" : "escolha_categoria",
+      "user_id" : "1881892331",
+      "versao" : "A"
+    },
+    "-KW-IlxBHxIG4bOvSO0w" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478547677087,
+      "tipo" : "final",
+      "user_id" : "1881892331",
+      "versao" : "A"
+    },
+    "-KW0YaK5_my-ni3uHI3T" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478568599801,
+      "tipo" : "inicio",
+      "user_id" : 3893013382,
+      "versao" : "A"
+    },
+    "-KW0YpbMHGj4C7Zr8-E1" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478568662433,
+      "tipo" : "inicio",
+      "user_id" : 3893013382,
+      "versao" : "B"
+    },
+    "-KW0YsHp8OoX7EshOJPP" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478568673386,
+      "tipo" : "escolha_categoria",
+      "user_id" : "3893013382",
+      "versao" : "B"
+    },
+    "-KW0YsyXb1rORf6jjQMl" : {
+      "projeto" : "ModSim",
+      "tempo" : 1478568676178,
+      "tipo" : "final",
+      "user_id" : "3893013382",
+      "versao" : "B"
+    },
+    "-KW0coR2-7P4MwdmYzgp" : {
+      "projeto" : "GDE",
+      "tempo" : 1478569969463,
+      "tipo" : "inicio",
+      "user_id" : 3387616100,
+      "versao" : "A"
+    },
+    "-KW7sfnNg9L8EECXtfGy" : {
+      "projeto" : "GDE",
+      "tempo" : 1478691568855,
+      "tipo" : "inicio",
+      "user_id" : 4122330881,
+      "versao" : "A"
+    },
+    "-KW7sj7CCvioBIkMRNWu" : {
+      "projeto" : "GDE",
+      "tempo" : 1478691584736,
+      "tipo" : "escolha_categoria",
+      "user_id" : "4122330881",
+      "versao" : "A"
+    }
+  }
+}

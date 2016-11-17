@@ -1,0 +1,76 @@
+	<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://www.gstatic.com/firebasejs/3.5.3/firebase.js"></script>
+		<script>
+		      // Initialize Firebase
+		      var config = {
+		        apiKey: "AIzaSyDTOSkBrgxh7-VlFcYseQuOUC1G2LC2a-I",
+		        authDomain: "cd-teste-ab.firebaseapp.com",
+		        databaseURL: "https://cd-teste-ab.firebaseio.com",
+		        storageBucket: "cd-teste-ab.appspot.com",
+		        messagingSenderId: "786413939013"
+		      };
+		      firebase.initializeApp(config);
+    	</script>
+		
+		<meta charset="utf-8">
+		<title>The Technologist</title>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/index_teste.css">
+		<link href="https://fonts.googleapis.com/css?family=Oswald|PT+Sans" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="css/hover-min.css">
+	</head>
+	
+	<body data-spy="scroll" data-target=".navbar" data-offset="50">
+		<nav class="navbar navbar-fixed-bottom">	
+		  <div class="btn-group btn-group-justified" role="group" aria-label="...">
+			  <div class="btn-group" role="group">
+			    <a href="sobre_mim.html" class="btn btn-default" role="button">SOBRE MIM</a>
+			  </div>
+			  <div class="btn-group" role="group">
+			    <a href="meus_projetos_A.html" class="btn btn-default" role="button">PROJETOS</a>
+			  </div>
+			  <div class="btn-group" role="group">
+			    <a href="contato.html" class="btn btn-default" role="button">CONTATO</a>
+			  </div>
+			</div>
+		</nav> 
+		<div class="container celula">
+			<div class="row">
+				<div class="col-sm-12 celula">THE TECHNOLOGIST<br><span class="by"></span></div>
+			</div>
+			<div class="row">
+				<div class="col-sm-11 celula"></div>
+				<div class="col-sm-1 celula">
+					<a href="https://github.com/lucasfontenla" target="_blank" class="icon"><img src="img/github-icon.png" width=50 height=50 alt="github icon"></a>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-sm-11 celula"></div>
+				<div class="col-sm-1 celula">
+					<a href="https://fb.com/lucasfontenla" target="_blank" class="icon"><img src="img/facebook-icon.png" width=50 height=50 alt="facebook icon"></a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-11 celula"></div>
+				<div class="col-sm-1 celula">
+					<a href="https://linkedin.com" target="_blank" class="icon"><img src="img/linkedin-icon.png" width=50 height=50 alt="linkedin icon"></a>
+				</div>
+			</div>
+		</div>
+	</body>
+
+	<script>
+		function X(){
+    		if(sessionStorage.getItem('projeto') === 'ModSim'){
+    			confirm('Ache o projeto "COMO EVACUAR UM ARRANHA-CÉU RAPIDAMENTE" do curso de Modelagem em Simulação do Mundo Físico');
+    		} else{
+    			confirm('Ache o projeto "NASA SINGULARITY" do curso de Grandes Desafios da Engenharia');
+    		}
+    	}
+    	setTimeout(X, 1000)
+	</script>
+	
+</html>

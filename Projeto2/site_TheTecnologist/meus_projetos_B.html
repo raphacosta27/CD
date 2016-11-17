@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://www.gstatic.com/firebasejs/3.5.3/firebase.js"></script>
+
+		<script>
+		      // Initialize Firebase
+		      var config = {
+		        apiKey: "AIzaSyDTOSkBrgxh7-VlFcYseQuOUC1G2LC2a-I",
+		        authDomain: "cd-teste-ab.firebaseapp.com",
+		        databaseURL: "https://cd-teste-ab.firebaseio.com",
+		        storageBucket: "cd-teste-ab.appspot.com",
+		        messagingSenderId: "786413939013"
+		      };
+		      firebase.initializeApp(config);
+    	</script>
+
+    	<script src="scripts/main.js"></script>
+
+    	<script>
+    		var vs = "B";
+    		
+    		function sendInfo(click_val){
+    			var proj = sessionStorage.getItem('projeto');
+    			console.log(proj, click_val)
+
+    			console.log('OK');
+
+    			if(click_val === 1){
+    				if(proj === 'ModSim'){
+    					var projeto = 'ModSim';
+    					console.log('Click OK ModSim');
+    					envia("escolha_categoria", sessionStorage.getItem('user_id'), Date.now(), vs, projeto);
+    				}
+    			}else{
+    				if(proj === 'GDE'){
+    					var projeto = 'GDE';
+    					console.log('Click OK GDE');
+    					envia("escolha_categoria", sessionStorage.getItem('user_id'), Date.now(), vs, projeto);
+    				}
+    			}
+    		}
+			sessionStorage.setItem('vs', vs)
+
+    	</script>
+
+		<title>Meus Projetos</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/meus_projetos_B.css">
+		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link href="https://fonts.googleapis.com/css?family=Oswald|PT+Sans" rel="stylesheet">
+	</head>
+	<body>
+		<nav class="navbar navbar-default">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		      <a class="navbar-brand"><span class="menu" id="site">TECHNOLOGIST</span></a>
+		    </div>
+		    <ul class="nav navbar-nav">
+		      <li><a href="index_B.html" class="birl"><span class="menu" id="home">HOME</span></a></li>
+		      <li><a href="sobre_mim.html"><span class="menu" id="sobre">SOBRE MIM</span></a></li>
+		      <li><a href="contato.html"><span class="menu" id="contatos">CONTATOS</span></a></li> 
+		    </ul>
+		  </div>
+		</nav>
+		<div class="container celula">
+		<div class="row">
+			<div class="col-sm-12 celula" id="title">PROJETOS</div>
+		</div>
+	<table class="table table-bordered">
+		<tbody>
+			<tr class="box">
+				<div class="row">
+					<div class="col-sm-4 celula" id="title">
+					<!--Box Programação-->
+						<td class="col-md-4" id="categoria"><a href="projetos/programacao/programacao.html">PROGRAMAÇÃO</a><br></td>
+					</div>
+					<div class="col-sm-4 celula" id="title">
+					<!--Box Eletrônica-->
+						<td class="col-md-4" id="categoria2"><a href="projetos/eletronica/eletronica.html">ELETRÔNICA</a><br></td>
+					</div>
+					<div class="col-sm-4 celula" id="title">
+					<!--Box Simulações-->
+						<td class="col-md-4" id="categoria" onclick='sendInfo(1);'><a href="projetos/simulacoes/simulacoes.html">SIMULAÇÕES</a><br></td>
+					</div>
+				</div>
+			</tr>
+			
+			<tr class="box">
+			<div class="row">
+				<div class="col-sm-4 celula" id="title">
+					<!--Box Empreendedorismo-->
+					<td class="col-md-4" id="categoria2" onclick='sendInfo(0);'><a href="projetos/empreendedorismo/empreendedorismo.html">EMPREENDEDORISMO</a><br></td>
+				</div>
+				<div class="col-sm-4 celula" id="title">
+					<!--Box Design-->
+					<td class="col-md-4" id="categoria"><a href="projetos/design/design.html">DESIGN</a><br></td>
+				</div>
+				<div class="col-sm-4 celula" id="title">
+					<!--Box Artigos-->
+					<td class="col-md-4" id="categoria2"><a href="projetos/artigos/artigos.html">ARTIGOS CIENTÍFICOS</a></td>
+				</div>
+			</div>
+		</tbody>
+	</table>
+	<div class="row">
+				<div class="col-sm-9 celula"></div>
+				<div class="col-sm-1 celula">
+					<a href="https://github.com/lucasfontenla" target="_blank" class="icon"><img src="img/github-icon.png" width=40" height=40" alt="github icon"></a>
+				</div>
+				<div class="col-sm-1 celula">
+					<a href="https://fb.com/lucasfontenla" target="_blank" class="icon"><img src="img/facebook-icon.png" width=40" height=40" alt="facebook icon"></a>
+				</div>
+				<div class="col-sm-1 celula">
+					<a href="https://linkedin.com" target="_blank" class="icon"><img src="img/linkedin-icon.png" width="40" height="40" alt="linkedin icon"></a>
+				</div>
+			</div>
+		</div>    	
+	</body>
+
+	<script>
+		function X(){
+    		if(sessionStorage.getItem('projeto') === 'ModSim'){
+    			confirm('Ache o projeto "COMO EVACUAR UM ARRANHA-CÉU RAPIDAMENTE" do curso de Modelagem em Simulação do Mundo Físico');
+    		} else{
+    			confirm('Ache o projeto "NASA SINGULARITY" do curso de Grandes Desafios da Engenharia');
+    		}
+    	}
+    	setTimeout(X, 1000)
+	</script>
+	
+</html>

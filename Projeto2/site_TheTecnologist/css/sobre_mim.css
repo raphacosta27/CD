@@ -1,0 +1,66 @@
+/* branco: #F6F6F6
+   Cinza: #2B2B2B;
+   Vermelho: #FF1212;
+*/
+html, body {
+	height: auto;
+	width: auto;
+	background-image: url(../img/background.png);
+	background-repeat: repeat;
+}
+
+nav div {
+	background-color: #FF1212;
+}
+
+nav ul li {
+	font-size: 20px;
+	position: relative;
+}
+
+#home {
+	padding-left: 350px;
+}
+
+.menu {
+	color: #F6F6F6;
+	font-family: 'Oswald', sans-serif;
+}
+
+#site {
+	color: black;
+}
+
+#title {
+	font-size: 30px;
+}
+
+.fotodetails {
+	margin-right:3%;
+	margin-top:1%;
+	float:left; 
+	height:400px;
+	width:400px;	
+} 
+
+.corpo {
+	font-size: 20px;
+	font-family: 'Oswald', sans-serif;
+	height:auto;
+	padding:1%;
+}
+
+#subcorpo {
+	padding-top: 10px;
+}
+
+.icon {
+	right: 0;
+	
+}
+
+.copyright {
+	position: absolute;
+	bottom: 0;
+	margin: 10px;
+}

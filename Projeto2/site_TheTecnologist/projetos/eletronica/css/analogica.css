@@ -1,0 +1,66 @@
+html, body {
+	height: auto;
+	width: auto;
+	background-image: url(../../../img/background.png);
+	background-repeat: repeat;
+}
+
+
+
+nav div {
+	background-color: #FF1212;
+}
+
+nav ul li {
+	font-size: 20px;
+	position: relative;
+}
+
+#home {
+	padding-left: 300px;
+}
+
+.menu {
+	color: #F6F6F6;
+	font-family: 'Oswald', sans-serif;
+}
+
+#site {
+	color: black;
+}
+
+#title {
+	font-size: 30px;
+}
+
+.main {
+	margin: 10px;
+}
+
+.projects {
+	padding: 20px;
+}
+
+#first {
+	text-align: center;
+}
+
+
+.icon {
+	right: 0;
+	
+}
+
+.copyright {
+	position: absolute;
+	bottom: 0;
+	margin: 10px;
+}
+.block {
+	margin-left: 10%;
+}
+
+.row {
+	margin-left: 20%;
+	margin-top: 1%;
+}

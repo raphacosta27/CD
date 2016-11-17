@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://www.gstatic.com/firebasejs/3.5.3/firebase.js"></script>
+
+		<script>
+		      // Initialize Firebase
+		      var config = {
+		        apiKey: "AIzaSyDTOSkBrgxh7-VlFcYseQuOUC1G2LC2a-I",
+		        authDomain: "cd-teste-ab.firebaseapp.com",
+		        databaseURL: "https://cd-teste-ab.firebaseio.com",
+		        storageBucket: "cd-teste-ab.appspot.com",
+		        messagingSenderId: "786413939013"
+		      };
+		      firebase.initializeApp(config);
+    	</script>
+
+    	<script src="../../scripts/main.js"></script>
+    	<script>
+    		var vs = sessionStorage.getItem('vs');
+
+    		function sendInfo(){
+    			console.log('OK');
+
+    			var proj = sessionStorage.getItem('projeto');
+    			console.log(proj)
+
+    				if(proj === 'GDE'){
+    					var projeto = 'GDE';
+    					console.log('Click OK GDE');
+    					envia("final", sessionStorage.getItem('user_id'), Date.now(), sessionStorage.getItem('vs'), projeto);
+    					window.location.replace("../../agradecimento.html");
+    				}
+    			}
+
+    	</script>
+
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/social.css">
+	<title>Empreendedorismo Social</title>
+</head>
+<body>
+	<nav class="navbar navbar-default">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		      <a class="navbar-brand"><span class="menu" id="site">TECHNOLOGIST</span></a>
+		    </div>
+		    <ul class="nav navbar-nav">
+		      <li><a href="../../index.html"><span class="menu" id="home">HOME</span></a></li>
+		      <li><a href="../../meus_projetos.html"><span class="menu" id="sobre">PROJETOS</span></a></li>
+		      <li><a href="../../sobre_mim.html"><span class="menu" id="sobre">SOBRE MIM</span></a></li>
+		      <li><a href="../../contato.html"><span class="menu" id="contatos">CONTATOS</span></a></li> 
+		    </ul>
+		</div>
+	</nav>
+	<div class="main">
+		<div class="media">
+			<div class="media-left">
+				<a href="#">
+					<img class="media-object" src="img/emp_social.png" alt="..." height="60" width="60">
+				</a>
+			</div>
+		<div class="media-body">
+		<h2 class="media-heading">Empreendedorismo Social</h2>
+		<span class="description">Empreendedorismo Social é a categoria de projetos que buscam impacto na vida de pessoas tanto fora como dentro da faculdade.</span>
+		</div>
+		</div>
+		<div class="projects">
+		<div class="row">
+			<div class="col-sm-4 celula" id="first">
+				<div class="block">
+					<a onclick="sendInfo();"><img src="img/singu.png" width="300" height="300"></a>
+					<a onclick="sendInfo();"><p>NASA - Singularity</p></a>
+				</div>
+			</div>
+		</div>
+		</div>
+		<div>
+			<footer>
+				<div class="copyright">
+					<span></span>&copy; 2016 Lucas Fontenla</span>
+					<a href="https://github.com/lucasfontenla" target="_blank" class="icon"><img src="img/github-icon.png" width=40" height=40" alt="github icon"></a>
+					<a href="https://fb.com/lucasfontenla" target="_blank" class="icon"><img src="img/facebook-icon.png" width=40" height=40" alt="facebook icon"></a>
+					<a href="https://linkedin.com" target="_blank" class="icon"><img src="img/linkedin-icon.png" width="40" height="40" alt="linkedin icon"></a>
+				</div>
+			</footer>
+		</div>
+
+</body>
+</html>

@@ -1,0 +1,65 @@
+html, body {
+	height: auto;
+	width: auto;
+	background-image: url(../img/background.png);
+	background-repeat: repeat;
+}
+
+.main {
+	margin: 10px;
+}
+
+nav div {
+	background-color: #FF1212;	
+}
+
+nav ul li {
+	font-size: 20px;
+	position: relative;
+}
+
+#home {
+	padding-left: 350px;
+}
+
+.menu {
+	color: #F6F6F6;
+	font-family: 'Oswald', sans-serif;
+}
+
+#site {
+	color: black;
+}
+
+#title {
+	font-size: 30px;
+}
+
+#text {
+	margin-left: 5rem; 
+}
+
+.form-group {
+	width: 75%;
+	height: 20%
+}
+
+.form-control {
+	width: 75%;
+}
+
+.btn {
+	margin: 10px;
+	float: left;
+}
+
+.icon {
+	right: 0;
+	
+}
+
+.copyright {
+	position: absolute;
+	bottom: 0;
+	margin: 10px;
+}

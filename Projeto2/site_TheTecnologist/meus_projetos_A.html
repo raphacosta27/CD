@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://www.gstatic.com/firebasejs/3.5.3/firebase.js"></script>
+
+		<script>
+		      // Initialize Firebase
+		      var config = {
+		        apiKey: "AIzaSyDTOSkBrgxh7-VlFcYseQuOUC1G2LC2a-I",
+		        authDomain: "cd-teste-ab.firebaseapp.com",
+		        databaseURL: "https://cd-teste-ab.firebaseio.com",
+		        storageBucket: "cd-teste-ab.appspot.com",
+		        messagingSenderId: "786413939013"
+		      };
+		      firebase.initializeApp(config);
+    	</script>
+
+    	<script src="scripts/main.js"></script>
+    	<script>
+    		var vs = "A";
+
+    		function sendInfo(click_val){
+    			console.log('OK');
+
+    			var proj = sessionStorage.getItem('projeto');
+    			console.log(proj, click_val)
+
+    			if(click_val === 1){
+    				if(proj === 'ModSim'){
+    					var projeto = 'ModSim';
+    					console.log('Click OK ModSim');
+    					envia("escolha_categoria", sessionStorage.getItem('user_id'), Date.now(), vs, projeto);
+    				}
+    			}else{
+    				if(proj === 'GDE'){
+    					var projeto = 'GDE';
+    					console.log('Click OK GDE');
+    					envia("escolha_categoria", sessionStorage.getItem('user_id'), Date.now(), vs, projeto);
+    				}
+    			}
+    		}
+    		sessionStorage.setItem('vs', vs)
+
+    	</script>
+
+		<title>Meus Projetos</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="css/meus_projetos_A.css">
+		<link rel="stylesheet" type="text/css" href="css/reset.css">
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+		<link href="https://fonts.googleapis.com/css?family=Oswald|PT+Sans" rel="stylesheet">
+	</head>
+	<body>
+		<nav class="navbar navbar-default">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		      <a class="navbar-brand"><span class="menu" id="site">TECHNOLOGIST</span></a>
+		    </div>
+		    <ul class="nav navbar-nav">
+		      <li><a href="index.html" class="birl"><span class="menu" id="home">HOME</span></a></li>
+		      <li><a href="sobre_mim.html"><span class="menu" id="sobre">SOBRE MIM</span></a></li>
+		      <li><a href="contato.html"><span class="menu" id="contatos">CONTATOS</span></a></li> 
+		    </ul>
+		  </div>
+		</nav>
+		<div class="container celula">
+		<div class="row">
+			<div class="col-sm-12 celula" id="title">PROJETOS</div>
+		</div>
+	<table class="table table-bordered">
+		<tbody>
+			<!--Box Programação-->
+			<tr class="box">
+				<td class="col-md-2" id="categoria">PROGRAMAÇÃO<br><span class="category_description">Nesta categoria, você encontra os projetos que usaram algum tipo de linguagem de programação.</span></td>
+				<td class="description">
+				    <div class="size_box">
+				    	<ul>
+				    		<!--<li><h3 class="subcat">Web</h3></li>
+				    			<ul class="projetos">
+				    				<li class="prog_projects"><a href="projetos/programacao/JavaScript.html"><p class="java_description">JavaScript</p></a></li>
+				    				<li class="prog_projects"><a href="projetos/programacao/HTML-CSS.html"><p>HTML/CSS</p></a></li>
+				    			</ul>-->
+				    		<li><h3 class="subcat"></h3></li>
+				    			<ul class="projetos_empreen">
+				    				<li class="prog_projects_empreen"><a href="projetos/programacao/C++.html"><p>C++(Arduino)</p></a></li>
+				    				<li class="prog_projects_empreen"><a href="projetos/programacao/Python.html"><p>Python</p></a></li>
+				    			</ul>
+				    		<!--<li><h3 class="subcat">Ferramentas</h3></li>
+				    			<ul class="projetos">
+				    				<li class="prog_projects"><a href="projetos/programacao/Git.html"><p>GitHub</p></a></li>
+				    			</ul>-->
+				    	</ul>
+				    </div>
+				</td>
+			</tr>
+			<!--Box Eletrônica-->
+			<tr class="box">
+				<td class="col-md-2" id="categoria2">ELETRÔNICA<br><span class="category_description">Nesta categoria, você encontra os projetos que foram desnvolvidos com circuitos eletrônicos.</span></td>
+				<td class="description">
+				    <div class="size_box">
+				    	<ul>
+				    		<li><h3 class="subcat"></h3></li>
+				    			<ul class="projetos_empreen">
+				    				<li class="prog_projects_empreen"><a href="projetos/eletronica/Digital.html">Digitais</a></li>
+				    			</ul>
+				    		<li><h3 class="subcat"></h3></li>
+				    			<ul class="projetos_empreen">
+				    				<li class="prog_projects_empreen"><a href="projetos/eletronica/Analogica.html">Analógico</a></li> 
+				    			</ul>
+				    	</ul>
+				    </div>
+				</td>
+			</tr>
+			<!--Box Simulações-->
+			<tr class="box">
+				<td class="col-md-2" id="categoria">SIMULAÇÕES<br><span class="category_description">Nesta categoria, você encontra os projetos que foram desnvolvidos por meio de simulações.</span></td>
+				<td class="description">
+				    <div class="size_box">
+				    	<ul>
+				    		<!--<li><h3 class="subcat">Dinâmica Populacional</h3></li>
+				    			<ul class="projetos">
+				    				<li class="prog_projects"><a href="projetos/simulacoes/dinamicas_populacionais.html">Dinâmica Populacional</a></li>
+				    			</ul>
+				    		<li><h3 class="subcat">Termodinâmica</h3></li>
+				    			<ul class="projetos">
+				    				<li class="prog_projects"><a href="projetos/simulacoes/termodinamica.html">Termodinâmica</a></li>
+				    			</ul>-->
+			    			<li><h3 class="subcat"></h3></li>
+			    			<ul class="projetos_eletronica">
+			    				<li class="prog_projects_eletronica" id="sub_simu" onclick="sendInfo(1);"><a href="projetos/simulacoes/sistemas_mecanicos.html">Sistemas Mecânicos</a></li>
+			    			</ul>
+				    	</ul>
+				    </div>
+				</td>
+			</tr>
+			<!--Box Empreendedorismo-->
+			<tr class="box">
+				<td class="col-md-2" id="categoria2">EMPREENDEDORISMO<br><span class="category_description">Nesta categoria, você encontra os projetos que foram desnvolvidos com fins de empreender.</span></td>
+				<td class="description">
+				    <div class="size_box">
+				    	<ul>
+				    		<li><h3 class="subcat"></h3></li>
+				    			<ul class="projetos_empreen">
+				    				<li class="prog_projects_empreen" id="sub_emp" onclick="sendInfo(0);"><a href="projetos/empreendedorismo/Social.html">Sociais</a></li>
+				    			</ul>
+				    		<li><h3 class="subcat"></h3></li>
+				    			<ul class="projetos_empreen">
+				    				<li class="prog_projects_empreen" id="sub_emp"><a href="projetos/empreendedorismo/Tecnologico.html">Tecnológicos</a></li>
+				    			</ul>
+				    	</ul>
+				    </div>
+				</td>
+				<!--Box Design-->
+				<tr class="box">
+				<td class="col-md-2" id="categoria">DESIGN<br><span class="category_description">Nesta categoria, você encontra os projetos que foram desenvolvidos a partir dos conceitos de design thinking</span></td>
+				<td class="description">
+				    <div class="size_box">
+				    	<ul class="projetos_eletronica">
+				    		<li class="prog_projects_eletronica">
+			    				<a href="projetos/design/design_thinking.html">Design Thinking</a>
+				    		</li>
+				    			<!--<ul class="projetos">
+				    				<li class="prog_projects" id="sub_think"><a href="projetos/design/design_thinking.html">Design Thinking</a></li>
+				    			</ul>-->
+				    	</ul>
+				    </div>
+				</td>
+				<!--Box Artigos-->
+				<tr class="box">
+				<td class="col-md-2" id="categoria2">ARTIGOS CIENTÍFICOS<br><span class="category_description">Nesta categoria, você encontra os artigos científicos escritos.</span></td>
+				<td class="description">
+				    <div class="size_box">
+				    	<ul class="projetos_eletronica">
+		    				<li class="prog_projects_eletronica" id="sub_artig"><a href="projetos/artigos/artigos.html">Artigos</a></li>
+				    	</ul>
+				    </div>
+				</td>
+		</tbody>
+	</table>
+	<div class="row">
+				<div class="col-sm-9 celula"></div>
+				<div class="col-sm-1 celula">
+					<a href="https://github.com/lucasfontenla" target="_blank" class="icon"><img src="img/github-icon.png" width=40" height=40" alt="github icon"></a>
+				</div>
+				<div class="col-sm-1 celula">
+					<a href="https://fb.com/lucasfontenla" target="_blank" class="icon"><img src="img/facebook-icon.png" width=40" height=40" alt="facebook icon"></a>
+				</div>
+				<div class="col-sm-1 celula">
+					<a href="https://linkedin.com" target="_blank" class="icon"><img src="img/linkedin-icon.png" width="40" height="40" alt="linkedin icon"></a>
+				</div>
+			</div>
+		</div>
+	</body>
+
+	<script>
+		function X(){
+    		if(sessionStorage.getItem('projeto') === 'ModSim'){
+    			confirm('Ache o projeto "COMO EVACUAR UM ARRANHA-CÉU RAPIDAMENTE" do curso de Modelagem em Simulação do Mundo Físico');
+    		} else{
+    			confirm('Ache o projeto "NASA SINGULARITY" do curso de Grandes Desafios da Engenharia');
+    		}
+    	}
+    	setTimeout(X, 1000)
+	</script>
+	
+</html>

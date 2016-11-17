@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://www.gstatic.com/firebasejs/3.5.3/firebase.js"></script>
+
+    <script>
+      // Initialize Firebase
+      var config = {
+        apiKey: "AIzaSyDTOSkBrgxh7-VlFcYseQuOUC1G2LC2a-I",
+        authDomain: "cd-teste-ab.firebaseapp.com",
+        databaseURL: "https://cd-teste-ab.firebaseio.com",
+        storageBucket: "cd-teste-ab.appspot.com",
+        messagingSenderId: "786413939013"
+      };
+      firebase.initializeApp(config);
+    </script>
+
+    <script>
+  		function sorteia(){
+	  		var rnd = Math.random();
+
+	  		var index_a = "index_A.html" //https://cd-teste-ab.firebaseapp.com/index_A.html";
+	  		var index_b = "index_B.html" //https://cd-teste-ab.firebaseapp.com/index_B.html";
+
+	  		if (rnd < 0.5){
+	  			destino = index_a;
+          vs = "A"
+	  		} else{
+	  			destino = index_b;
+          vs = "B"
+	  		}
+
+      envia("inicio", id_pessoa, Date.now(), vs, projeto)
+      
+	  	window.location.replace(destino);
+	  	}
+  	</script>
+
+    <meta charset="utf-8">
+    <title>Projeto de Ciência dos Dados</title>
+    <style media="screen">
+      body {
+        font-family: Roboto, Arial, sans-serif;
+        background: #ECEFF1;
+        color: rgba(0,0,0,0.87);
+      }
+
+      a {
+        color: rgb(3,155,229);
+      }
+
+      #message {
+        max-width: 400px;
+        margin: 40px auto;
+        box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.14),0 2px 1px -1px rgba(0,0,0,0.12);
+        border-radius: 2px;
+        background: white;
+        padding: 16px 24px;
+      }
+
+      #message h1 {
+        font-size: 22px;
+        font-weight: 500;
+        text-align: center;
+        margin: 0 0 16px;
+      }
+
+      #message p {
+        font-weight: 300;
+        line-height: 150%;
+        text-align: center;
+      }
+
+      #message ol {
+        list-style: none;
+        margin: 16px 0 0;
+        padding: 0;
+        text-align: center;
+      }
+      #message ol li {
+        padding: 3%;
+      }
+
+      #message li a {
+        display: inline-block;
+        padding: 8px;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-weight: 500;
+        background: rgb(3,155,229);
+        color: white;
+        border: 1px solid rgb(3,155,229);
+        border-radius: 3px;
+        font-size: 14px;
+        box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+        box-align: center;
+        padding: 3%;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+
+  <body>
+      <script src="client.min.js"></script>
+      <script>
+        var client = new ClientJS();
+
+        var id_pessoa = client.getFingerprint();
+
+      </script> 
+
+    <div id="message">
+      <h1>Obrigado por nos ajudar em nossa pesquisa</h1>
+      <ol>
+        <li id="sort">Text</li>
+        <li onclick="sorteia();"><a>Clique aqui para avançar</a></li>
+      </ol>
+    </div>
+
+    <script src="scripts/main.js"></script>
+
+    <script>
+    console.log('Started');
+
+    var rnd2 = Math.random();
+
+    if (rnd2 < 0.5){
+      var texto = "Encontre o projeto - <strong> Como evacuar um arranha-céu rapidamente </strong> - realizado para a matéria de Modelagem e Simulação do Mundo Físico no primeiro semestre";
+      var projeto = "ModSim";
+      console.log('Modsim');
+    } else{
+      var texto = "Encontre o projeto - <strong> NASA - Singularity </strong> - realizado para a matéria de Grandes Desafios da Engenharia no primeiro semestre";
+      var projeto = "GDE";
+      console.log('GDE')
+    }
+    document.getElementById("sort").innerHTML = texto;
+    sessionStorage.setItem('projeto', projeto)
+    sessionStorage.setItem('user_id', id_pessoa)
+    </script>
+    
+  </body>
+</html>

@@ -1,0 +1,126 @@
+/* branco: #F6F6F6
+   Cinza: #2B2B2B;
+   Vermelho: #FF1212;
+*/
+html, body {
+	height: auto;
+	width: auto;
+	background-image: url(../img/background.png);
+	background-repeat: repeat;
+}
+
+nav div {
+	background-color: #FF1212;
+}
+
+
+nav ul li {
+	font-size: 20px;
+	position: relative;
+}
+
+#home {
+	padding-left: 350px;
+}
+
+.menu:hover {
+	color: black;
+}
+
+.menu {
+	color: #F6F6F6;
+	font-family: 'Oswald', sans-serif;
+}
+
+.menu: hover {
+	background-color: black;
+}
+
+#site {
+	color: black;
+}
+
+#title {
+	font-size: 30px;
+	font-family: 'Oswald', sans-serif;
+}
+
+
+.box {
+	height: 20px;
+	color: #F6F6F6;
+}
+
+#categoria{
+	background-color: black;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Oswald', sans-serif;
+	padding-top: 100px;
+	padding-right: 130px;
+	padding-bottom: 100px;	
+	padding-left: 130px;
+}
+
+#categoria2{
+	background-color: #FF1212;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Oswald', sans-serif;
+	padding-top: 100px;
+	padding-right: 130px;
+	padding-bottom: 100px;	
+	padding-left: 130px;
+}
+
+.description {
+	color: black;
+	font-family: 'Oswald', sans-serif;
+}
+
+.category_description {
+	font-size: 15px;
+	font-family: 'Oswald', sans-serif;
+}
+.sub_tile {
+	font-size: 30px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.projetos_programacao {
+	padding-left: 30%;
+	padding-top: 15%;
+}
+
+.projetos_eletronica {
+	text-align: center;
+	padding-top: 25%;
+}
+
+.projetos_empreen {
+	text-align: center;
+	padding-top: 10%;
+}
+
+.prog_projects_programacao { 
+	font-size: 24px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.prog_projects_eletronica {
+	font-size: 24px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.prog_projects_empreen {
+	font-size: 24px;
+	font-family: 'Oswald', sans-serif;
+}
+
+.subcat {
+	padding-left: 10px;
+}
+
+.icon {
+	display: inline-block;
+}

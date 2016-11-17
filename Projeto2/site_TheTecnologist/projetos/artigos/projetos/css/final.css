@@ -1,0 +1,62 @@
+html, body {
+	height: auto;
+	width: auto;
+	background-image: url(../../../../img/background.png);
+	background-repeat: repeat;
+}
+
+
+nav div {
+	background-color: #FF1212;
+}
+
+nav ul li {
+	font-size: 20px;
+	position: relative;
+}
+
+#home {
+	padding-left: 300px;
+}
+
+.menu {
+	color: #F6F6F6;
+	font-family: 'Oswald', sans-serif;
+}
+
+#site {
+	color: black;
+}
+
+#title {
+	font-size: 30px;
+}
+
+.main {
+	margin: 5%;
+	font-family: 'Oswald', sans-serif;
+}
+
+.imagem {
+	position: relative;
+	float: left;
+	padding-right: 10px;
+}
+
+.media-body {
+	padding-left: 2%;
+}
+
+.description {
+	position: relative;
+	float: right;
+}
+
+.subtitle {
+	font-size: 25px;
+	padding-top: 3%;
+}
+
+.answer {
+	padding-left: 5%;
+}
